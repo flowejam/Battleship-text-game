@@ -2,7 +2,7 @@
 
 Text version of the classic Battleship game
 
-Examples of the placeShip method:  
+Examples of the place_ship method:  
 ```
 game = ShipGame()
 place_ship('first', 4, 'G9', 'C')
